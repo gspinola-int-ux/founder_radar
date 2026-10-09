@@ -1,5 +1,51 @@
 {
-  "generated_at": "",
-  "meet_now": [],
+  "generated_at": "2026-10-09",
+  "meet_now": [
+    {
+      "name": "Luka Kovačević",
+      "description": "",
+      "linkedin": "https://www.linkedin.com/in/luka-kovacevic/"
+    },
+    {
+      "name": "Sergio Pascual",
+      "description": "",
+      "linkedin": "https://linkedin.com/in/pascualdsergio"
+    },
+    {
+      "name": "Aviyah Peri",
+      "description": "",
+      "linkedin": "https://linkedin.com/in/aviyah-peri"
+    },
+    {
+      "name": "Matteo Lai",
+      "description": "",
+      "linkedin": "https://www.linkedin.com/in/matteolai3/"
+    },
+    {
+      "name": "Stefan Denner",
+      "description": "",
+      "linkedin": "https://www.linkedin.com/in/stefan-denner/"
+    },
+    {
+      "name": "Łukasz Sztukiewicz",
+      "description": "",
+      "linkedin": "https://www.linkedin.com/in/lukaszsztukiewicz/"
+    },
+    {
+      "name": "Lukas Pin",
+      "description": "",
+      "linkedin": "https://www.linkedin.com/in/lukas-pin/"
+    },
+    {
+      "name": "Niket R.",
+      "description": "",
+      "linkedin": "https://www.linkedin.com/in/niketrajeevan/"
+    },
+    {
+      "name": "Inês de Santiago, PhD",
+      "description": "",
+      "linkedin": "https://www.linkedin.com/in/inesdesantiago/"
+    }
+  ],
   "watch": []
 }
